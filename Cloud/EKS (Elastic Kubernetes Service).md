@@ -1,0 +1,2 @@
+- Running Kubernetes di AWS
+- Kubernetes untuk deploy aplikasi skala besar
