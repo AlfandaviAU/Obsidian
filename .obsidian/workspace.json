@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/EC2 (Elastic Compute Cloud).md",
+                "file": "Cloud/Infra/Availability Zone.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,19 +26,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "8a627ffc7b4462d1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230927222403.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/EC2 (Elastic Compute Cloud).md",
+                "file": "Cloud/Infra/Availability Zone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/EC2 (Elastic Compute Cloud).md",
+                "file": "Cloud/Infra/Availability Zone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/EC2 (Elastic Compute Cloud).md"
+                "file": "Cloud/Infra/Availability Zone.md"
               }
             }
           }
@@ -165,14 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51a9418b24c0f92b",
+  "active": "dc0ca8db3cda3207",
   "lastOpenFiles": [
-    "Cloud/ECS (Elastic Container Service).md",
+    "Cloud/Infra/AWS Region.md",
+    "Cloud/Infra/AWS Global Infra.md",
+    "Cloud/Infra/Availability Zone.md",
+    "Images/Pasted image 20230928050149.png",
     "Cloud/EC2 (Elastic Compute Cloud).md",
-    "Cloud/AWS (Amazon Web Services).md",
-    "Cloud/EKS (Elastic Kubernetes Service).md",
-    "Cloud/Elastic Load Balancing.md",
     "Images/Pasted image 20230927222403.png",
+    "Cloud/Infra",
+    "Cloud/EKS (Elastic Kubernetes Service).md",
+    "Cloud/AWS (Amazon Web Services).md",
+    "Cloud/ECS (Elastic Container Service).md",
+    "Cloud/Elastic Load Balancing.md",
     "Pasted image 20230927222338.png",
     "Arsitektur/Monolitik vs Microservices.md",
     "Arsitektur/Images/Pasted image 20230927234002.png",
@@ -192,7 +186,6 @@
     "Cloud/Pasted image 20230918181744.png",
     "2023-09-27.md",
     "Cloud",
-    "Pasted image 20230918181616.png",
     "Pasted image 20230918181625.png.md"
   ]
 }

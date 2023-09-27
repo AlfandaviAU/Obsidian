@@ -1,4 +1,5 @@
 {
-  "attachmentFolderPath": "Arsitektur/Images",
-  "promptDelete": false
+  "attachmentFolderPath": "Images",
+  "promptDelete": false,
+  "spellcheck": false
 }

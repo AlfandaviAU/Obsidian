@@ -5,3 +5,4 @@ Penyedia layanan cloud functions reliable
 #### Services
 [[EC2 (Elastic Compute Cloud)]]
 [[ECS (Elastic Container Service)]]
+[[EKS (Elastic Kubernetes Service)]]
