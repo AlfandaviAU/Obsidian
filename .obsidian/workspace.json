@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "15b55850b4477908",
+        "id": "c531af1721858b7f",
         "type": "tabs",
         "children": [
           {
-            "id": "dc0ca8db3cda3207",
+            "id": "362d0265f3e2e610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Infra/Availability Zone.md",
+                "file": "Cloud/Connectivity/AWS Direct Connect.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "51a9418b24c0f92b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Infra/Availability Zone.md",
+                "file": "Cloud/Connectivity/AWS Direct Connect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Infra/Availability Zone.md",
+                "file": "Cloud/Connectivity/AWS Direct Connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Infra/Availability Zone.md"
+                "file": "Cloud/Connectivity/AWS Direct Connect.md"
               }
             }
           }
@@ -154,36 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc0ca8db3cda3207",
+  "active": "362d0265f3e2e610",
   "lastOpenFiles": [
-    "Cloud/Infra/AWS Region.md",
-    "Cloud/Infra/AWS Global Infra.md",
+    "Cloud/Connectivity/AWS VPC (Virtual Private Cloud).md",
+    "Cloud/Services/ECS (Elastic Container Service).md",
     "Cloud/Infra/Availability Zone.md",
-    "Images/Pasted image 20230928050149.png",
-    "Cloud/EC2 (Elastic Compute Cloud).md",
-    "Images/Pasted image 20230927222403.png",
-    "Cloud/Infra",
-    "Cloud/EKS (Elastic Kubernetes Service).md",
-    "Cloud/AWS (Amazon Web Services).md",
-    "Cloud/ECS (Elastic Container Service).md",
-    "Cloud/Elastic Load Balancing.md",
-    "Pasted image 20230927222338.png",
-    "Arsitektur/Monolitik vs Microservices.md",
-    "Arsitektur/Images/Pasted image 20230927234002.png",
     "Arsitektur/Images/Pasted image 20230927233610.png",
+    "Cloud/Connectivity/AWS Direct Connect.md",
+    "Images/Pasted image 20230928133927.png",
+    "Images/Pasted image 20230928133924.png",
+    "Images/Pasted image 20230928133921.png",
+    "Images/Pasted image 20230928133918.png",
+    "Images/Pasted image 20230928133911.png",
+    "Images/Pasted image 20230928132935.png",
+    "Images/Pasted image 20230928132430.png",
+    "Images/Pasted image 20230928130948.png",
+    "Images/Pasted image 20230928130722.png",
+    "Cloud/AWS (Amazon Web Services).md",
+    "Cloud/Connectivity",
+    "Cloud/Tools/AWS Elastic Beanstalk.md",
+    "Cloud/Tools/AWS CLI.md",
+    "Cloud/Tools/AWS SDK.md",
+    "Cloud/Tools/AWS Management Console.md",
+    "Cloud/Infra/AWS Region.md",
+    "Cloud/Infra/AWS CloudFront.md",
+    "Cloud/Infra/AWS Global Infra.md",
+    "Cloud/Tools",
+    "Cloud/Infra/AWS.md",
+    "Cloud/Services/EC2 (Elastic Compute Cloud).md",
+    "Cloud/Services/EKS (Elastic Kubernetes Service).md",
+    "Cloud/Services",
+    "Cloud/Infra",
+    "Cloud/Elastic Load Balancing.md",
+    "Arsitektur/Monolitik vs Microservices.md",
     "Arsitektur/Images",
     "Arsitektur",
     "Monolitik Application.md",
     "Approach/Monolitik Application.md",
     "Approach",
-    "Cloud/Images/Pasted image 20230927232152.png",
-    "Cloud/Images/Pasted image 20230927224604.png",
-    "Cloud/Images/Pasted image 20230927224601.png",
-    "Cloud/Images/Pasted image 20230927222435.png",
     "Cloud/Images",
     "Images",
     "Masalah Pengembangan Aplikasi.md",
-    "Cloud/Pasted image 20230918181744.png",
     "2023-09-27.md",
     "Cloud",
     "Pasted image 20230918181625.png.md"

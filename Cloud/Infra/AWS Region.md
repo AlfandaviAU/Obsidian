@@ -10,3 +10,4 @@ AWS memiliki data center di semua region sehingga latensi bisa lebih rendah, ter
 4. Pricing -> Harga
 
 [[Availability Zone]]
+[[AWS CloudFront]]
