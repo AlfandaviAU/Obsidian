@@ -1,6 +1,7 @@
 {
   "accentColor": "#a5731d",
   "theme": "obsidian",
-  "interfaceFontFamily": "Jetbrains Mono",
-  "baseFontSize": 18
+  "interfaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 13,
+  "cssTheme": ""
 }
