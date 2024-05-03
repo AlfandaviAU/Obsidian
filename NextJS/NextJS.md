@@ -1,1 +1,1 @@
-[[Concept]]
+[[NextJS/Concept]]

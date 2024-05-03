@@ -1,0 +1,1 @@
+Secara default, dependency yang dibutuhkan itu wajib diisi oleh NestJS -> kalau tidak ada maka error, namun kita bisa menggunakan decorator <mark style="background: #FFF3A3A6;">@Optional()</mark> sehingga tidak wajib diisi dan tidak mereturn error apabila tidak diisi

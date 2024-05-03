@@ -1,0 +1,3 @@
+Di nest js, dia pakai jest untuk integration testnya, pakai e2e test, terlihat di file package.json, perintah test menggunakan command jest saja, apapun <mark style="background: #FFF3A3A6;">e2e-spec.ts</mark> suffix akan dianggap integration test, ngaturnya ada di file jest-e2e.json ![[Pasted image 20240430194032.png |300]]
+
+Enakan menggunakan integration test, karena bisa jalanin semua test sekaligus tanpa terpisah, namun kekurangannya cukup lama

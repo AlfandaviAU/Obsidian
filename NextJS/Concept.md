@@ -60,3 +60,4 @@ Ketika kita punya layout misalkan di @root kemudian kita pingin nambah layout sp
 Untuk styling components, kita bikin /components.js sama /components.module.css terus diimport <mark style="background: #BBFABBA6;">import classes from "./main-header-background.module.css";</mark> kemudian classesnya digunakan di tiap classname, kalau gaada bisa pakai dict seperti dibawah
 
 ![[Pasted image 20240417061147.png | 300]]
+
