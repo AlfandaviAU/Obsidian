@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NestJS/Konsep/Configuration.md",
+                "file": "NextJS/Server Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e4bd408fdee92e24",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NestJS/Konsep/Configuration.md",
+                "file": "NextJS/Server Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NestJS/Konsep/Configuration.md",
+                "file": "NextJS/Server Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NestJS/Konsep/Configuration.md"
+                "file": "NextJS/Server Components.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69ecd964815b9152",
+  "active": "83571725c5dab0d8",
   "lastOpenFiles": [
+    "NextJS/NextJS.md",
+    "Cloud/Images/Pasted image 20230927222435.png",
+    "Cloud/Images/Pasted image 20230927232152.png",
+    "NestJS/Konsep/Configuration.md",
     "Images/Pasted image 20240503105750.png",
     "NestJS/Konsep/Provider/Custom Provider.md",
-    "NestJS/Konsep/Configuration.md",
     "Images/Pasted image 20240503105257.png",
     "NestJS/Konsep/NestJS.md",
     "NestJS/Konsep/Module Reference.md",
@@ -171,16 +174,12 @@
     "NestJS/Konsep/HTTP",
     "NestJS/Konsep/Provider/Factory Provider.md",
     "NestJS/Konsep/Provider",
-    "Images/Pasted image 20240503095401.png",
-    "Images/Pasted image 20240503095205.png",
-    "Images/Pasted image 20240503095059.png",
     "Arsitektur/Realtime.md",
     "NestJS/NestJS.md",
     "NestJS/Konsep/Dependency Injection.md",
     "NestJS/Konsep/Optional Dependency.md",
     "NextJS/Concept.md",
     "NextJS/Server Components.md",
-    "NextJS/NextJS.md",
     "NestJS/Konsep/Decorator.md",
     "NestJS/Konsep/Testing/Unit Test.md",
     "NestJS/Konsep/Testing/Integration Test.md",
