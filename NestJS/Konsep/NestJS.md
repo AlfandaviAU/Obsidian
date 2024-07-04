@@ -7,7 +7,7 @@
 - Keuntungannya dengan menggunakan cara yang sama, no doubt lagi cara kerjanya dan adaptability dijamin
 - Menggunakan [[Decorator]] sebagai penambah metadata
 - Mempunyai [[Struktur Folder]]
-- Memiliki [[Module]] yang mengandung beberapa [[Controller]]
+- Memiliki [[Module]] yang mengandung beberapa [[Controller]] dan bisa [[Shared Module]]
 - Controller untuk [[HTTP Request]] bisa memiliki beberapa [[HTTP Method]] yang terkait dan menghasilkan [[HTTP Response]] baik yang sync maupun [[Asynchronous]]
 - Library seperti cookie parser bisa digunakan untuk mengaplikasikan [[Cookie]]
 - Template engine seperti [[View]] diintegrasikan dengan ExpressJS seperti mustache
@@ -15,7 +15,7 @@
 - Konsep seperti [[Provider]] tersedia pada NestJS, [[Dependency Injection]] beserta [[Optional Dependency]]
 - [[Module Reference]] untuk refer ke Module lain
 - Memiliki [[Configuration]] tersendiri
-- 
+- [[Database]] di nest tidak mendukung ORM bawaan, namun bisa diintegrasikan dengan banyak ORM yang populer
 ### NestJS Internal
 - NestJS sebenarnya pakai library yang disediakan di NodeJS
 - Menggunakan ExpressJS sebagai HTTP Handlernya

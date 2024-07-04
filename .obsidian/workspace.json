@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2711f2dc10fc14",
+        "id": "38562d46be3fa479",
         "type": "tabs",
         "children": [
           {
-            "id": "69ecd964815b9152",
+            "id": "4f815128b9cdbad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "NextJS/Server Components.md",
+=======
+                "file": "Cloud/AWS (Amazon Web Services).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1b2384dafeb8b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Concept/AWS IAM.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "NextJS/Server Components.md",
+=======
+                "file": "Cloud/Concept/AWS IAM.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "NextJS/Server Components.md",
+=======
+                "file": "Cloud/Concept/AWS IAM.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "NextJS/Server Components.md"
+=======
+                "file": "Cloud/Concept/AWS IAM.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -146,6 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "83571725c5dab0d8",
   "lastOpenFiles": [
     "NextJS/NextJS.md",
@@ -184,15 +214,58 @@
     "NestJS/Konsep/Testing/Unit Test.md",
     "NestJS/Konsep/Testing/Integration Test.md",
     "NestJS/Konsep/Controller.md",
+=======
+  "active": "a1b2384dafeb8b0d",
+  "lastOpenFiles": [
+    "Cloud/Concept/AWS Access.md",
+    "Cloud/AWS (Amazon Web Services).md",
+    "Cloud/Concept/AWS IAM.md",
+    "NestJS/Konsep/HTTP/HTTP Response.md",
+    "NestJS/Konsep/HTTP/HTTP Request.md",
+    "NestJS/Konsep/HTTP/HTTP Method.md",
+    "Cloud/Connectivity/AWS VPC (Virtual Private Cloud).md",
+    "Cloud/Connectivity/AWS Direct Connect.md",
+    "Cloud/Infra/AWS Type.md",
+    "Cloud/Infra/AWS Region.md",
+    "Cloud/Infra/AWS CloudFront.md",
+    "Cloud/Infra/AWS Availability Zone.md",
+    "NextJS/Server Components.md",
+    "NextJS/NextJS.md",
+    "NextJS/Concept.md",
+>>>>>>> Stashed changes
     "NestJS/Konsep/View.md",
+    "NestJS/Konsep/Struktur Folder.md",
+    "NestJS/Konsep/Optional Dependency.md",
+    "NestJS/Konsep/NestJS.md",
+    "NestJS/Konsep/Dependency Injection.md",
+    "NestJS/Konsep/Logger.md",
+    "NestJS/Konsep/Decorator.md",
+    "NestJS/Konsep/Database.md",
     "NestJS/Konsep/Cookie.md",
+    "NestJS/Konsep/Controller.md",
+    "NestJS/Konsep/Configuration.md",
+    "Untitled.canvas",
+    "Images/Pasted image 20240616152445.png",
+    "Images/Pasted image 20240616152155.png",
+    "Images/Pasted image 20240616133401.png",
+    "Cloud/Concept",
+    "Images/Pasted image 20240616103350.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Cloud/Type",
+    "Images/Pasted image 20240503161929.png",
+    "Images/Pasted image 20240503125808.png",
+    "Images/Pasted image 20240503125622.png",
+    "NestJS/Konsep/Module",
+    "Images/Pasted image 20240503110613.png",
+    "Images/Pasted image 20240503110603.png",
+    "Images/Pasted image 20240503110033.png",
+    "NestJS/Konsep/Testing",
+    "NestJS/Konsep/HTTP",
+    "NestJS/Konsep/Provider",
     "NestJS/Konsep",
     "NestJS/CLI",
     "NestJS",
-    "Untitled.canvas",
-    "NextJS",
-    "NextJS",
-    "Cloud/Connectivity",
-    "Cloud/Tools"
+    "NextJS"
   ]
 }

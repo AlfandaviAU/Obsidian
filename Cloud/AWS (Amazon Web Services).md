@@ -2,6 +2,9 @@
 
 Penyedia layanan cloud functions reliable
 
+[[AWS Type]]
+
+
 #### Services
 [[EC2 (Elastic Compute Cloud)]]
 [[ECS (Elastic Container Service)]]
@@ -15,3 +18,9 @@ Penyedia layanan cloud functions reliable
 
 ##### Network
 [[AWS VPC (Virtual Private Cloud)]]
+
+### Diagramming
+https://app.eraser.io/workspace/Ymltn9Ss6PWEDt7HBObt
+
+#### Concept
+[[AWS IAM]]
