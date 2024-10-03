@@ -25,9 +25,9 @@ By Default menolak semua traffic masuk, namun allow semua traffic keluar. Semua 
 
 Security group ngecek siapa yang masuk, namun kalau siapa yang keluar maka dibiarkan -> mirip satpam maupun bioskop
 
-| Network ACL | Security Group |
-| ----------- | ---------------|
-| Stateless | Stateful, mengingat siapa yg masuk dan keluar |
+| Network ACL | Security Group                                |
+| ----------- | --------------------------------------------- |
+| Stateless   | Stateful, mengingat siapa yg masuk dan keluar |
 
 ##### Journey Paket antar Subnet pada VPC
 ![[Pasted image 20230928133911.png|500]]

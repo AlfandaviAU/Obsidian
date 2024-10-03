@@ -1,7 +1,9 @@
 {
-  "accentColor": "#a5731d",
+  "accentColor": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "Karla",
   "baseFontSize": 16,
-  "cssTheme": ""
+  "cssTheme": "",
+  "textFontFamily": "Karla",
+  "monospaceFontFamily": "JetBrains Mono"
 }

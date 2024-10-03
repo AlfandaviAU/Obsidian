@@ -12,5 +12,9 @@
 
 ### 3 Pricing Fundamentals
 1. Compute
+	1. Pay for compute time
 2. Storage
+	1. Pay for data stored in cloud
 3. Data Transfer Out
+	1. Data transfer IN is free, charges out data
+

@@ -4,6 +4,8 @@
 - Kalau sudah selesai, instance bisa diakhiri
 - Berbagi instance dengan instance lainnya
 - Scaling, milih OS dengan mudah
+- IaaS service
+[[EC2 Sizing and Options]]
 
 #### Instance Family
 1. General purpose : umum, buat server web atau repo
@@ -32,3 +34,8 @@ Tipe scaling :
 4. Scaling in -> mengurangi instances (1,1,1 to 1)
 
 Decouple system : Dipisahkan sistemnya antar proses sehingga scaling bisa dimudahkan 
+
+##### Storage Options
+1. [[EBS (Elastic Block Store)]]
+2. [[EC2 Instance Store]]
+3. [[EC2 EFS]]

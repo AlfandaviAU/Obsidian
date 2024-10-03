@@ -4,7 +4,6 @@ Penyedia layanan cloud functions reliable
 
 [[AWS Type]]
 
-
 #### Services
 [[EC2 (Elastic Compute Cloud)]]
 [[ECS (Elastic Container Service)]]

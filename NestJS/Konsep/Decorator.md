@@ -1,3 +1,0 @@
-Fitur bawaan js, belum disepakati oleh semua kalangan, namun sering digunakan di NestJS, fitur andalan NestJS. <mark style="background: #FFF3A3A6;">Fitur untuk menambahkan metadata ( informasi tambahan )</mark> berbeda dengan komentar yang tidak bisa dibaca kode program, ia bisa dibaca. Cara menambahkannya bisa menggunakan <mark style="background: #FFF3A3A6;">@</mark> pada nama decoratornya, bisa digunakan di Class, Function, Parameter, dll.
-![[Pasted image 20240429113821.png | 400]]
-Ada 2 decorator, <mark style="background: #FFF3A3A6;">@Controller</mark> dan <mark style="background: #FFF3A3A6;">@Get()</mark> yang bisa digunakan sebagai metadata informasi

@@ -1,56 +1,35 @@
 {
   "main": {
-    "id": "c46053b20b6b8b34",
+    "id": "5eb33b2af6d15479",
     "type": "split",
     "children": [
       {
-        "id": "38562d46be3fa479",
+        "id": "0052180036565240",
         "type": "tabs",
         "children": [
           {
-            "id": "4f815128b9cdbad9",
+            "id": "a360ea6760b0bd79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "NextJS/Server Components.md",
-=======
-                "file": "Cloud/AWS (Amazon Web Services).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1b2384dafeb8b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Concept/AWS IAM.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f916fbb7389acfc4",
+    "id": "5e9fd6b75ccd8f92",
     "type": "split",
     "children": [
       {
-        "id": "9e6f4e2a99b7bac1",
+        "id": "fdb9300f8118c12b",
         "type": "tabs",
         "children": [
           {
-            "id": "83571725c5dab0d8",
+            "id": "93543a69797900c2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +39,7 @@
             }
           },
           {
-            "id": "47322be96339fea5",
+            "id": "9069854fbf2f0673",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +54,7 @@
             }
           },
           {
-            "id": "ee057ba756fd965d",
+            "id": "6b6662ba2933d3ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,27 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "e4bd408fdee92e24",
+    "id": "9ae57358633dd6b9",
     "type": "split",
     "children": [
       {
-        "id": "bf316b51e582305d",
+        "id": "4d222419a233922f",
         "type": "tabs",
         "children": [
           {
-            "id": "756e55b7beb2be5b",
+            "id": "b0936dd72c2e88af",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "NextJS/Server Components.md",
-=======
-                "file": "Cloud/Concept/AWS IAM.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,23 +92,18 @@
             }
           },
           {
-            "id": "bb5df833f257a83e",
+            "id": "81cf2ca62152e9ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "NextJS/Server Components.md",
-=======
-                "file": "Cloud/Concept/AWS IAM.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "700d313a53f2261b",
+            "id": "1c41f03f63847f6b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,17 +114,11 @@
             }
           },
           {
-            "id": "c04df93fe5ed9095",
+            "id": "7358712119176e4b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "NextJS/Server Components.md"
-=======
-                "file": "Cloud/Concept/AWS IAM.md"
->>>>>>> Stashed changes
-              }
+              "state": {}
             }
           }
         ]
@@ -175,97 +138,48 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "83571725c5dab0d8",
+  "active": "a360ea6760b0bd79",
   "lastOpenFiles": [
-    "NextJS/NextJS.md",
-    "Cloud/Images/Pasted image 20230927222435.png",
-    "Cloud/Images/Pasted image 20230927232152.png",
-    "NestJS/Konsep/Configuration.md",
-    "Images/Pasted image 20240503105750.png",
-    "NestJS/Konsep/Provider/Custom Provider.md",
-    "Images/Pasted image 20240503105257.png",
-    "NestJS/Konsep/NestJS.md",
-    "NestJS/Konsep/Module Reference.md",
-    "Images/Pasted image 20240503104616.png",
-    "Images/Pasted image 20240503104410.png",
-    "NestJS/Konsep/Module.md",
-    "NestJS/Konsep/HTTP/HTTP Method.md",
-    "Images/Pasted image 20240503102118.png",
-    "Images/Pasted image 20240503101932.png",
-    "Images/Pasted image 20240503101035.png",
-    "Images/Pasted image 20240503100844.png",
-    "NestJS/Konsep/Provider/Provider.md",
-    "NestJS/Konsep/Commands.md",
-    "NestJS/Konsep/Asynchronous.md",
-    "NestJS/Konsep/HTTP/HTTP Request.md",
-    "NestJS/Konsep/HTTP/HTTP Response.md",
-    "NestJS/Konsep/Testing",
-    "NestJS/Konsep/HTTP",
-    "NestJS/Konsep/Provider/Factory Provider.md",
-    "NestJS/Konsep/Provider",
-    "Arsitektur/Realtime.md",
-    "NestJS/NestJS.md",
-    "NestJS/Konsep/Dependency Injection.md",
-    "NestJS/Konsep/Optional Dependency.md",
-    "NextJS/Concept.md",
-    "NextJS/Server Components.md",
-    "NestJS/Konsep/Decorator.md",
-    "NestJS/Konsep/Testing/Unit Test.md",
-    "NestJS/Konsep/Testing/Integration Test.md",
-    "NestJS/Konsep/Controller.md",
-=======
-  "active": "a1b2384dafeb8b0d",
-  "lastOpenFiles": [
-    "Cloud/Concept/AWS Access.md",
+    "Cloud/EC2/EC2 Sizing and Options.md",
+    "Cloud/EC2/EC2 Security Group.md",
+    "Cloud/EC2/EC2 SSH.md",
+    "Cloud/EC2/EC2 EFS.md",
+    "Cloud/Services/EC2 (Elastic Compute Cloud).md",
+    "Cloud/Services/EBS (Elastic Block Store).md",
+    "Cloud/EC2/EBS/EBS Snapshot.md",
+    "Cloud/EC2/EC2 Instance Store.md",
+    "Cloud/EC2/EC2 Instance Pricing.md",
+    "Cloud/EC2/EC2 AMI.md",
+    "Cloud/EC2/EC2 Image Builder.md",
+    "Cloud/EC2/AMI",
     "Cloud/AWS (Amazon Web Services).md",
-    "Cloud/Concept/AWS IAM.md",
-    "NestJS/Konsep/HTTP/HTTP Response.md",
-    "NestJS/Konsep/HTTP/HTTP Request.md",
-    "NestJS/Konsep/HTTP/HTTP Method.md",
-    "Cloud/Connectivity/AWS VPC (Virtual Private Cloud).md",
-    "Cloud/Connectivity/AWS Direct Connect.md",
+    "Cloud/EC2/EBS",
+    "Cloud/EC2/EC2 EBC.md",
+    "Cloud/Services/ECS (Elastic Container Service).md",
+    "Cloud/EC2/EC2 Instance Types.md",
+    "Cloud/Services/Elastic Load Balancing.md",
+    "Cloud/Services/EKS (Elastic Kubernetes Service).md",
     "Cloud/Infra/AWS Type.md",
     "Cloud/Infra/AWS Region.md",
     "Cloud/Infra/AWS CloudFront.md",
     "Cloud/Infra/AWS Availability Zone.md",
-    "NextJS/Server Components.md",
-    "NextJS/NextJS.md",
-    "NextJS/Concept.md",
->>>>>>> Stashed changes
-    "NestJS/Konsep/View.md",
-    "NestJS/Konsep/Struktur Folder.md",
-    "NestJS/Konsep/Optional Dependency.md",
-    "NestJS/Konsep/NestJS.md",
-    "NestJS/Konsep/Dependency Injection.md",
-    "NestJS/Konsep/Logger.md",
-    "NestJS/Konsep/Decorator.md",
-    "NestJS/Konsep/Database.md",
-    "NestJS/Konsep/Cookie.md",
-    "NestJS/Konsep/Controller.md",
-    "NestJS/Konsep/Configuration.md",
-    "Untitled.canvas",
-    "Images/Pasted image 20240616152445.png",
-    "Images/Pasted image 20240616152155.png",
-    "Images/Pasted image 20240616133401.png",
-    "Cloud/Concept",
-    "Images/Pasted image 20240616103350.png",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Cloud/Type",
-    "Images/Pasted image 20240503161929.png",
-    "Images/Pasted image 20240503125808.png",
-    "Images/Pasted image 20240503125622.png",
-    "NestJS/Konsep/Module",
-    "Images/Pasted image 20240503110613.png",
-    "Images/Pasted image 20240503110603.png",
-    "Images/Pasted image 20240503110033.png",
-    "NestJS/Konsep/Testing",
-    "NestJS/Konsep/HTTP",
-    "NestJS/Konsep/Provider",
-    "NestJS/Konsep",
-    "NestJS/CLI",
-    "NestJS",
-    "NextJS"
+    "Cloud/Concept/Cloud Computing.md",
+    "Cloud/Images/Pasted image 20230927232152.png",
+    "Cloud/Images/Pasted image 20230927222435.png",
+    "Images/Pasted image 20240904090452.png",
+    "Images/Pasted image 20240904083115.png",
+    "Images/Pasted image 20240904075927.png",
+    "EC2.pem",
+    "EC2Tutorial.pem",
+    "ec2-user-data.sh",
+    "user-data.json",
+    "Cloud/EC2",
+    "Cloud/Concept/AWS IAM.md",
+    "Cloud/Tools/AWS CLI.md",
+    "Cloud/Concept/AWS Access.md",
+    "Arsitektur/Realtime.md",
+    "iam_policies.json",
+    "iam.json",
+    "main."
   ]
 }
