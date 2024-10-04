@@ -2,7 +2,7 @@
 	1. Provide building blocks for cloud IT
 	2. Highest level of flexibility
 2. ***PaaS (Platform as a Service)***
-	1. Ndaperlu setup infrastruktur terlebih dahulu
+	1. Remove need for manage underlying ifrastructure
 	2. Focusing on Deployment and app management
 3. ***SaaS (Software as a Service)***
 	1. Managed by Service Provider

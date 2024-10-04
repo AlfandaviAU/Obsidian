@@ -23,7 +23,7 @@
 	8. Convertible Reserved Instance
 		1. Allows change EC2 instance type, family, OS, scope, and tenancy
 		2. Up to <mark style="background: #BBFABBA6;">66% discount</mark>
-
+	
 3. **Saving Plans** ( 1 & 3 Years ) : commitment to an amount of usage, long workload
 	1. Discount based on long-term usage, same like Reserved Instances
 	2. Commit to certain type of usage ( $10/h for 1 or 3 years )
@@ -44,8 +44,8 @@
 		2. Data analysis
 		3. Image processing
 		4. Any distributed workloads
-		5. Workloads with flexible start and end time
-	6. <mark style="background: #FF5582A6;">Not suitable for critical jobs or DB</mark>
+		6. Workloads with flexible start and end time
+	7. <mark style="background: #FF5582A6;">Not suitable for critical jobs or DB</mark>
 	
 5. **Dedicated Host** -> Book entire physical server
 	1. Physical server with EC2 instance capacity fully dedicated for us

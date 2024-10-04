@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0052180036565240",
+        "id": "6207b8e10e5fabc6",
         "type": "tabs",
         "children": [
           {
-            "id": "a360ea6760b0bd79",
+            "id": "50ab39751c7d00f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS/EC2/EC2 AMI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS/EC2/EC2 AMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS/EC2/EC2 AMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS/EC2/EC2 AMI.md"
+              }
             }
           }
         ]
@@ -138,34 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a360ea6760b0bd79",
+  "active": "50ab39751c7d00f9",
   "lastOpenFiles": [
-    "Cloud/EC2/EC2 Sizing and Options.md",
-    "Cloud/EC2/EC2 Security Group.md",
-    "Cloud/EC2/EC2 SSH.md",
-    "Cloud/EC2/EC2 EFS.md",
-    "Cloud/Services/EC2 (Elastic Compute Cloud).md",
-    "Cloud/Services/EBS (Elastic Block Store).md",
-    "Cloud/EC2/EBS/EBS Snapshot.md",
-    "Cloud/EC2/EC2 Instance Store.md",
-    "Cloud/EC2/EC2 Instance Pricing.md",
-    "Cloud/EC2/EC2 AMI.md",
-    "Cloud/EC2/EC2 Image Builder.md",
+    "AWS/EC2/EC2 SSH.md",
+    "AWS/EC2/EC2 Sizing and Options.md",
+    "AWS/Services/EC2 (Elastic Compute Cloud).md",
+    "AWS/Concept/AWS IAM.md",
+    "AWS/Infrastructure/AWS Type.md",
+    "AWS/Images/Pasted image 20230927232152.png",
+    "AWS/Images/Pasted image 20230927222435.png",
+    "AWS/Concept/Cloud Computing.md",
+    "AWS/EC2/EC2 Instance Pricing.md",
+    "AWS/EC2/EC2 Image Builder.md",
+    "AWS/EC2/EC2 EFS.md",
+    "AWS/EC2/EC2 AMI.md",
+    "AWS/Connectivity/AWS VPC (Virtual Private Cloud).md",
+    "AWS/Connectivity/AWS Direct Connect.md",
+    "Arsitektur/Monolitik vs Microservices.md",
+    "AWS/EC2/EC2 Security Group.md",
+    "AWS/Services/EBS (Elastic Block Store).md",
+    "AWS/EC2/EBS/EBS Snapshot.md",
+    "AWS/EC2/EC2 Instance Store.md",
     "Cloud/EC2/AMI",
-    "Cloud/AWS (Amazon Web Services).md",
-    "Cloud/EC2/EBS",
+    "AWS/AWS (Amazon Web Services).md",
+    "AWS/EC2/EBS",
     "Cloud/EC2/EC2 EBC.md",
-    "Cloud/Services/ECS (Elastic Container Service).md",
-    "Cloud/EC2/EC2 Instance Types.md",
-    "Cloud/Services/Elastic Load Balancing.md",
-    "Cloud/Services/EKS (Elastic Kubernetes Service).md",
-    "Cloud/Infra/AWS Type.md",
-    "Cloud/Infra/AWS Region.md",
-    "Cloud/Infra/AWS CloudFront.md",
-    "Cloud/Infra/AWS Availability Zone.md",
-    "Cloud/Concept/Cloud Computing.md",
-    "Cloud/Images/Pasted image 20230927232152.png",
-    "Cloud/Images/Pasted image 20230927222435.png",
+    "AWS/Services/ECS (Elastic Container Service).md",
+    "AWS/EC2/EC2 Instance Types.md",
+    "AWS/Services/Elastic Load Balancing.md",
+    "AWS/Services/EKS (Elastic Kubernetes Service).md",
+    "AWS/Infrastructure/AWS Region.md",
+    "AWS/Infrastructure/AWS CloudFront.md",
+    "AWS/Infrastructure/AWS Availability Zone.md",
     "Images/Pasted image 20240904090452.png",
     "Images/Pasted image 20240904083115.png",
     "Images/Pasted image 20240904075927.png",
@@ -173,11 +185,7 @@
     "EC2Tutorial.pem",
     "ec2-user-data.sh",
     "user-data.json",
-    "Cloud/EC2",
-    "Cloud/Concept/AWS IAM.md",
-    "Cloud/Tools/AWS CLI.md",
-    "Cloud/Concept/AWS Access.md",
-    "Arsitektur/Realtime.md",
+    "AWS/EC2",
     "iam_policies.json",
     "iam.json",
     "main."

@@ -4,7 +4,7 @@ Bisa create user, yang bisa di grouping
 
 | Group: <mark style="background: #ADCCFFA6;">Developers</mark> | Group: <mark style="background: #FFB86CA6;">Operations</mark> | Group: <mark style="background: #BBFABBA6;">Audit Team</mark> |
 | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
-| 1. Alice                                                      | 1. David                                                      | 1. Charles                                                    |
+| 1.  Alice                                                     | 1. David                                                      | 1. Charles                                                    |
 | 2. Bob                                                        | 2. Edward                                                     | 2. David                                                      |
 | 3. Charles                                                    |                                                               |                                                               |
 <mark style="background: #FF5582A6;">Group only contain users, not other groups</mark>
