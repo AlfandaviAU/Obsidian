@@ -1,5 +1,5 @@
 
-Security group control how traffic is allowid into or out of our [[EC2 (Elastic Compute Cloud)]] in [[AWS (Amazon Web Services)]] instances, only contain <mark style="background: #BBFABBA6;">allow</mark> rules, can reference by IP or security group. Control inbound, outbound traffic from EC2 -> act as firewall, regulates : 
+Security group control how traffic is aw into or out of our [[EC2 (Elastic Compute Cloud)]] in [[AWS (Amazon Web Services)]] instances, only contain <mark style="background: #BBFABBA6;">allow</mark> rules, can reference by IP or security group. Control inbound, outbound traffic from EC2 -> act as firewall, regulates : 
 1. Access to ports
 2. Authorized IP ranges - IPv4 and IPv6
 3. Control inbound network ( from others to instance )
@@ -15,11 +15,13 @@ Security group control how traffic is allowid into or out of our [[EC2 (Elastic 
 7. By default, all <mark style="background: #FF5582A6;">inbound</mark> traffic -> <mark style="background: #FF5582A6;">blocked</mark>
 8. By default, all <mark style="background: #BBFABBA6;">outbound</mark> traffic -> <mark style="background: #BBFABBA6;">authorized</mark>
 
+![[security-group.jpg|400]]
+Security Group 3 wont be allowed since its not authorized by inbound rules on recipent security group
 ##### Classic Ports to know
 1. 22 = SSH - log into a Linux instance
 2. 21 = FTP - upload files into a file share
 3. 22 = SFTP - upload files using SSH
-4. 80 = HTTP - access unsecured websites
+4. 80 = HTTP - access <mark style="background: #FF5582A6;">unsecured</mark> websites
 5. 443 = HTTPS - access secured websites
 6. 3389 = RDP (Remote Desktop Protocol) - log into a windows instance
 

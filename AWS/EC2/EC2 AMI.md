@@ -12,3 +12,4 @@ We can launch EC2 from:
 4. Launch instances from other AMI
 
 AMI as templating from EC2, so we can just create from AMI, and do some functionality over it
+we can like extend67

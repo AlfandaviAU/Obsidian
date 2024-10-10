@@ -39,3 +39,11 @@ Decouple system : Dipisahkan sistemnya antar proses sehingga scaling bisa dimuda
 1. [[EBS (Elastic Block Store)]]
 2. [[EC2 Instance Store]]
 3. [[EC2 EFS]]
+
+##### Shared Responsibility Model for Storage
+| ==AWS==                               | ==Customer==                              |
+| ------------------------------------- | ----------------------------------------- |
+| Infrastructure                        | Setup backup and snapshot produres        |
+| Replication for data for EBS and EFS  | Setup Encrypt data                        |
+| Replacing Hardware                    | Responsibility that any data on out drive |
+| Ensure Employees cant access our data | Understand risk of EC2 Instance Store     |

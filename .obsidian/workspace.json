@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6207b8e10e5fabc6",
+        "id": "2c90f4ed68ada820",
         "type": "tabs",
         "children": [
           {
-            "id": "50ab39751c7d00f9",
+            "id": "9ea859482b8d16f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/EC2/EC2 AMI.md",
+                "file": "AWS/Services/ASG (Auto Scaling Group).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/EC2/EC2 AMI.md",
+                "file": "AWS/Services/ASG (Auto Scaling Group).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/EC2/EC2 AMI.md",
+                "file": "AWS/Services/ASG (Auto Scaling Group).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/EC2/EC2 AMI.md"
+                "file": "AWS/Services/ASG (Auto Scaling Group).md"
               }
             }
           }
@@ -146,48 +146,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50ab39751c7d00f9",
+  "active": "9ea859482b8d16f3",
   "lastOpenFiles": [
-    "AWS/EC2/EC2 SSH.md",
+    "Images/Pasted image 20241010173621.png",
+    "AWS/Services/Auto Scaling Group.canvas",
+    "AWS/Assets/Icons/EC2.svg",
+    "AWS/Assets/Icons/ELB.svg",
+    "Images/Pasted image 20230927222435.png",
+    "Images/Pasted image 20230927232152.png",
+    "AWS/Services/ASG (Auto Scaling Group).md",
+    "AWS/Untitled",
+    "Images/ebs.drawio.png",
+    "Images/ebs2.drawio.png",
+    "Images/nest.svg",
+    "Images/security-group-rules.png",
+    "Images/security-group.jpg",
+    "Images/Pasted image 20240429141151.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "AWS/Assets/Icons",
+    "AWS/Services/ELB (Elastic Load Balancer).md",
     "AWS/EC2/EC2 Sizing and Options.md",
-    "AWS/Services/EC2 (Elastic Compute Cloud).md",
+    "AWS/Services/Elastic Load Balancing.md",
+    "AWS/EC2/EC2 Security Group.md",
+    "AWS/EC2/EC2 Instance Types.md",
+    "AWS/EC2/EC2 Instance Store.md",
+    "AWS/Concept/gRPC.md",
+    "AWS/Concept/Protobuf.md",
     "AWS/Concept/AWS IAM.md",
-    "AWS/Infrastructure/AWS Type.md",
-    "AWS/Images/Pasted image 20230927232152.png",
-    "AWS/Images/Pasted image 20230927222435.png",
     "AWS/Concept/Cloud Computing.md",
+    "AWS/Concept/Scaling & Availability.md",
+    "AWS/EC2/EC2 SSH.md",
     "AWS/EC2/EC2 Instance Pricing.md",
     "AWS/EC2/EC2 Image Builder.md",
-    "AWS/EC2/EC2 EFS.md",
+    "AWS/EC2/EBS Snapshot.md",
     "AWS/EC2/EC2 AMI.md",
-    "AWS/Connectivity/AWS VPC (Virtual Private Cloud).md",
-    "AWS/Connectivity/AWS Direct Connect.md",
-    "Arsitektur/Monolitik vs Microservices.md",
-    "AWS/EC2/EC2 Security Group.md",
+    "AWS/EC2/EC2 EFS.md",
     "AWS/Services/EBS (Elastic Block Store).md",
-    "AWS/EC2/EBS/EBS Snapshot.md",
-    "AWS/EC2/EC2 Instance Store.md",
-    "Cloud/EC2/AMI",
-    "AWS/AWS (Amazon Web Services).md",
-    "AWS/EC2/EBS",
-    "Cloud/EC2/EC2 EBC.md",
-    "AWS/Services/ECS (Elastic Container Service).md",
-    "AWS/EC2/EC2 Instance Types.md",
-    "AWS/Services/Elastic Load Balancing.md",
+    "AWS/Concept/AWS Access.md",
+    "AWS/Infrastructure/AWS Type.md",
+    "AWS/Services/EC2 (Elastic Compute Cloud).md",
+    "AWS/Services/EFS (Elastic File System).md",
+    "AWS/EC2/Untitled.md",
     "AWS/Services/EKS (Elastic Kubernetes Service).md",
-    "AWS/Infrastructure/AWS Region.md",
-    "AWS/Infrastructure/AWS CloudFront.md",
-    "AWS/Infrastructure/AWS Availability Zone.md",
-    "Images/Pasted image 20240904090452.png",
-    "Images/Pasted image 20240904083115.png",
-    "Images/Pasted image 20240904075927.png",
+    "EC2Davi.pem",
+    "Cloud/EC2/AMI",
+    "AWS/EC2/EBS",
     "EC2.pem",
     "EC2Tutorial.pem",
     "ec2-user-data.sh",
     "user-data.json",
-    "AWS/EC2",
-    "iam_policies.json",
-    "iam.json",
-    "main."
+    "AWS/EC2"
   ]
 }

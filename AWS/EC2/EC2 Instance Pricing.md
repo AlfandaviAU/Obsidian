@@ -32,13 +32,13 @@
 	5. Flexible across:
 		1. Instance Size ( M5.xlarge and M5.2xlarge)
 		2. OS
-		3. Tenancy
+		3. Tenancy (Host, Dedicated, Default)
 
 4. **Spot Instances** : short workload, cheap, can lose instances
 	1. Discount up to 90% compared to on-demand
 	2. Bidding max price we willing to pay
 	3. Can lose instance if our max price < current spot price
-	4. <mark style="background: #BBFABBA6;">Most cost-efficient instance iN AWS</mark>
+	4. <mark style="background: #BBFABBA6;">Most cost-efficient instance in AWS</mark>
 	5. Useful use cases : 
 		1. Batch jobs
 		2. Data analysis

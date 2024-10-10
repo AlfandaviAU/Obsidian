@@ -1,0 +1,4 @@
+- Protocol Buffers created 2004 by Google
+- Data serialization framework
+- XML and JSON not efficient enough for storing data on disk
+- Create our own type
