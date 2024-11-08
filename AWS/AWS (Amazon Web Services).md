@@ -8,6 +8,10 @@ Penyedia layanan cloud functions reliable
 [[EC2 (Elastic Compute Cloud)]]
 [[ECS (Elastic Container Service)]]
 [[EKS (Elastic Kubernetes Service)]]
+[[ELB (Elastic Load Balancer)]]
+[[S3 (Simple Storage Service)]]
+[[AWS Snow Family]]
+[[RDS (Relational Database Service)]]
 
 ##### Cara Interaksi
 [[AWS CLI]]

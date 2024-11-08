@@ -1,4 +1,6 @@
 [
   "obsidian-discordrpc",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-annotator",
+  "obsidian-excalidraw-plugin"
 ]

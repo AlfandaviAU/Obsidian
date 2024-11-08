@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2c90f4ed68ada820",
+        "id": "3656191e3d088d27",
         "type": "tabs",
         "children": [
           {
-            "id": "9ea859482b8d16f3",
+            "id": "3591b87d62feed25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Services/ASG (Auto Scaling Group).md",
+                "file": "AWS/Services/DynamoDB.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DynamoDB"
+            }
+          },
+          {
+            "id": "1a1ad9740d576de8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ]
@@ -39,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +70,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +80,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "right": {
     "id": "9ae57358633dd6b9",
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Services/ASG (Auto Scaling Group).md",
+                "file": "AWS/Services/DynamoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DynamoDB"
             }
           },
           {
@@ -102,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Services/ASG (Auto Scaling Group).md",
+                "file": "AWS/Services/DynamoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DynamoDB"
             }
           },
           {
@@ -116,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Services/ASG (Auto Scaling Group).md"
-              }
+                "file": "AWS/Services/DynamoDB.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DynamoDB"
             }
           }
         ]
@@ -143,59 +171,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ea859482b8d16f3",
+  "active": "3591b87d62feed25",
   "lastOpenFiles": [
-    "Images/Pasted image 20241010173621.png",
-    "AWS/Services/Auto Scaling Group.canvas",
-    "AWS/Assets/Icons/EC2.svg",
-    "AWS/Assets/Icons/ELB.svg",
-    "Images/Pasted image 20230927222435.png",
-    "Images/Pasted image 20230927232152.png",
+    "Untitled.md",
+    "AWS/Services/DynamoDB.md",
+    "Excalidraw/ElastiCache.md",
+    "Pasted image 20241029192014.png",
+    "AWS/Services/RDS (Relational Database Service).md",
+    "AWS/Services/ElastiCache.md",
+    "Arch_Amazon-ElastiCache_64.svg",
+    "Res_Amazon-Aurora_Amazon-RDS-Instance_48.svg",
+    "Res_Amazon-Aurora_Amazon-RDS-Instance_48.png",
+    "EC2-instance-contents_32.svg",
+    "Res_Elastic-Load-Balancing_Application-Load-Balancer_48.svg",
+    "Excalidraw/RDS Deployments.md",
+    "AWS/RDS/RDS Deployments.md",
+    "Images/Res_Amazon-Aurora_Amazon-RDS-Instance_48 1.svg",
+    "AWS/Services/ELB (Elastic Load Balancer).md",
+    "Excalidraw/Amazon RDS.md",
+    "Images/Res_Amazon-Aurora_Amazon-RDS-Instance_48.svg",
+    "Images/Res_Amazon-EC2_Instance_48.svg",
+    "Images/Res_Elastic-Load-Balancing_Application-Load-Balancer_48.svg",
+    "AWS/AWS (Amazon Web Services).md",
+    "AWS/RDS",
+    "AWS/Services/AWS Snow Family.md",
+    "AWS/S3/S3 Storage Classes.md",
+    "AWS/EC2/EC2 EFS.md",
+    "Excalidraw/Snow Family.md",
+    "Excalidraw/Bucket Versioning S3.md",
+    "AWS/S3/S3 Encryption.md",
+    "AWS/Services/S3 (Simple Storage Service).md",
+    "AWS/S3/S3 Versioning.md",
+    "AWS/S3/S3 Policies.md",
+    "AWS/S3/S3 Buckets.md",
+    "AWS/S3/S3 Replicaton.md",
+    "Excalidraw/Drawing 2024-10-26 18.33.26.excalidraw.md",
+    "Excalidraw/Bucket Policy s3 public access.md",
+    "Excalidraw/S3 Buckets.md",
+    "AWS/S3",
     "AWS/Services/ASG (Auto Scaling Group).md",
-    "AWS/Untitled",
-    "Images/ebs.drawio.png",
-    "Images/ebs2.drawio.png",
-    "Images/nest.svg",
-    "Images/security-group-rules.png",
-    "Images/security-group.jpg",
-    "Images/Pasted image 20240429141151.png",
+    "AWS/Books/Building Microservices Designing Fine-Grained Systems (Sam Newman) (Z-Library).pdf",
+    "Excalidraw",
+    "AWS/Books/Notes",
+    "AWS/Books",
+    "AWS/Services/Auto Scaling Group.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "AWS/Assets/Icons",
-    "AWS/Services/ELB (Elastic Load Balancer).md",
-    "AWS/EC2/EC2 Sizing and Options.md",
-    "AWS/Services/Elastic Load Balancing.md",
-    "AWS/EC2/EC2 Security Group.md",
-    "AWS/EC2/EC2 Instance Types.md",
-    "AWS/EC2/EC2 Instance Store.md",
-    "AWS/Concept/gRPC.md",
-    "AWS/Concept/Protobuf.md",
-    "AWS/Concept/AWS IAM.md",
-    "AWS/Concept/Cloud Computing.md",
-    "AWS/Concept/Scaling & Availability.md",
-    "AWS/EC2/EC2 SSH.md",
-    "AWS/EC2/EC2 Instance Pricing.md",
-    "AWS/EC2/EC2 Image Builder.md",
-    "AWS/EC2/EBS Snapshot.md",
-    "AWS/EC2/EC2 AMI.md",
-    "AWS/EC2/EC2 EFS.md",
-    "AWS/Services/EBS (Elastic Block Store).md",
-    "AWS/Concept/AWS Access.md",
-    "AWS/Infrastructure/AWS Type.md",
-    "AWS/Services/EC2 (Elastic Compute Cloud).md",
-    "AWS/Services/EFS (Elastic File System).md",
-    "AWS/EC2/Untitled.md",
-    "AWS/Services/EKS (Elastic Kubernetes Service).md",
     "EC2Davi.pem",
     "Cloud/EC2/AMI",
-    "AWS/EC2/EBS",
-    "EC2.pem",
-    "EC2Tutorial.pem",
-    "ec2-user-data.sh",
-    "user-data.json",
-    "AWS/EC2"
+    "AWS/EC2/EBS"
   ]
 }
