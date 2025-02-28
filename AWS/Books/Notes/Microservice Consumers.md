@@ -26,7 +26,7 @@ Microservice exposing its functionality
 over a REST API and a topic ^4BR0cuY7
 
 ## Embedded Files
-8d824f7b7191b9d94fb8f522fa4867cc090f6289: [[image.png]]
+8d824f7b7191b9d94fb8f522fa4867cc090f6289: [[image 1.png]]
 
 %%
 ## Drawing

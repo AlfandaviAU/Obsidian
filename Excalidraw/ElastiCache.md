@@ -23,11 +23,11 @@ Read/write
 from DB (fast) ^Yp4BGLPV
 
 ## Embedded Files
-be99ffa1c38e47833cbf4deab312101e3d2790d7: [[Res_Elastic-Load-Balancing_Application-Load-Balancer_48.svg]]
+be99ffa1c38e47833cbf4deab312101e3d2790d7: [[Res_Elastic-Load-Balancing_Application-Load-Balancer_48 1.svg]]
 
 e73f2a84638d9645db44c2a5428b7a1b10671fe0: [[EC2-instance-contents_32.svg]]
 
-ae644cd5dba9b58c76eac4e42c78a47dd964b170: [[Res_Amazon-Aurora_Amazon-RDS-Instance_48.svg]]
+ae644cd5dba9b58c76eac4e42c78a47dd964b170: [[Res_Amazon-Aurora_Amazon-RDS-Instance_48 2.svg]]
 
 bc7b8b84bd59b142b665588434306117bbeb9d1f: [[Arch_Amazon-ElastiCache_64.svg]]
 

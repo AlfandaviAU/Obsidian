@@ -1,6 +1,6 @@
 [[AWS (Amazon Web Services)]] service for No-SQL DB
 1. Fully managed, high available, replication across 3 AZ
-2. NoSQL DB - not relation DB
+2. NoSQL DB - not relation DB -> cannot join to another db
 3. Flagship product AWS
 4. Scales to massive workloads, distributed "serverless" db
 5. Millions of req / seconds, T of rows, high storage
@@ -26,3 +26,7 @@
 2. Cache frequently read object
 <mark style="background: #FF5582A6;">3. Specifically for DynamoDB</mark>
 4. 10x performance improvement
+
+#### DynamoDB Global Tables
+1. Make DynamoDB table accessible with low latency in multi regions
+2. Can modify on any zones -> affect same table data

@@ -1,5 +1,5 @@
 Service on [[AWS (Amazon Web Services)]] to provide relational databases (like excel spreadsheets with links between them)
-- AWS offers use ot manage different DB
+- AWS offers use of manage different DB
 - Benefits : 
 	1. Quick Provisioning, High Availability, Scaling
 	2. Automated Backup & Restore, Ops, Upgrades
@@ -7,6 +7,7 @@ Service on [[AWS (Amazon Web Services)]] to provide relational databases (like e
 	4. Monitoring, alerting
 - EC2 may run db, but we need to handle many things behind -> not efficient
 
+[[Relational Databases]] Service
 ##### Advantage Using RDS vs deploying DB on EC2
 - RDS is managed service
 	- Auto provisioning, OS patch
@@ -23,6 +24,7 @@ Service on [[AWS (Amazon Web Services)]] to provide relational databases (like e
 - Proprietary Tech from AWS
 - PostgreSQL and MySQL supported
 - Cloud optimized, 5x performance improvement on MySQL and 3x performance improvement on Postgres
-- Storage automatically grows in increment of 10GB until 128TB
+- Storage automatically grows in <mark style="background: #FFB86CA6;">increment of 10GB</mark> until 128TB
 - Cost more than RDS (20%) - more efficient
 - Not in free tier
+- Have serverless options

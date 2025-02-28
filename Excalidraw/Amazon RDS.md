@@ -18,7 +18,7 @@ SQL DB ^0ruCa7LP
 Read/Write ^JHPfPQNE
 
 ## Embedded Files
-be99ffa1c38e47833cbf4deab312101e3d2790d7: [[Res_Elastic-Load-Balancing_Application-Load-Balancer_48.svg]]
+be99ffa1c38e47833cbf4deab312101e3d2790d7: [[Res_Elastic-Load-Balancing_Application-Load-Balancer_48 1.svg]]
 
 620534bde7ed258e9da8d12b59afd5573ee7e8aa: [[Res_Amazon-EC2_Instance_48.svg]]
 
