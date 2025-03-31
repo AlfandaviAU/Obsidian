@@ -1,0 +1,4 @@
+- defend by use DOM purify -> purifyJS -> stop 99% of attacks
+	- bersihin search bar
+- javascript:alert("message") -> untuk xss url
+- xss allows cookie stealing

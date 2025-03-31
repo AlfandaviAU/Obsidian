@@ -27,7 +27,7 @@
 	3. Have relational diagram -> show connection between tables
 3. <mark style="background: #FFFF00;">Entity Relationship model</mark>
 	1. Peter Chen 1976
-	2. Have ERD -> graphical rep of db components
+	2. Have ERD -> graphical rep of DB components
 	3. Entity 
 		1. Each row -> Entity Instance / Entity occurrence
 		2. Collection of entity -> entity set

@@ -1,0 +1,1 @@
+1. Strong entity don't have to identify each other

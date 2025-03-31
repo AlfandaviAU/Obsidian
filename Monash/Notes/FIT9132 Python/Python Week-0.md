@@ -118,3 +118,8 @@ An error in a program that makes it impossible to parse — and therefore imposs
 **token**  
   
 One of the basic elements of the syntactic structure of a program, analogous to a word in a natural language.
+
+
+syntax -> violates parenthesis and etc
+runtime error -> division by 0
+semantic error -> no error but false logic
