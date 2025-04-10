@@ -4,75 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d558c6d6cfba65",
+        "id": "1274c30a155abf62",
         "type": "tabs",
         "children": [
           {
-            "id": "b4b87218a27a54c1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Monash/Notes/FIT9137 CompArch/Week-4/Comp Arch Week-4 Applied.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Comp Arch Week-4 Applied"
-            }
-          },
-          {
-            "id": "823c0ab47e52715a",
+            "id": "f08c67af5ac19652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monash/Database Books/Database Systems Design, Implementation and Management/Chapter 1. DB Systems.md",
+                "file": "Monash/Notes/FIT9136 Intro DB/APPLIED 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1. DB Systems"
+              "title": "APPLIED 4"
             }
           },
           {
-            "id": "9829eee9863fd22f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Monash/Notes/FIT9138 System Design/System Design Week-4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "System Design Week-4"
-            }
-          },
-          {
-            "id": "cef3d563678091e4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Monash/Notes/FIT9138 System Design/System Design Week-5.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "System Design Week-5"
-            }
-          },
-          {
-            "id": "3ab268c541641e5d",
+            "id": "69693812d7ee7388",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monash/Database Books/Database Systems Design, Implementation and Management/Chapter 6. Normalization.md",
+                "file": "Monash/Consultations 1 on 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6. Normalization"
+              "title": "Consultations 1 on 1"
+            }
+          },
+          {
+            "id": "89af93000dc25e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monash/Notes/FIT9137 CompArch/Week-6/Comp Arch Week-6 Applied.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comp Arch Week-6 Applied"
+            }
+          },
+          {
+            "id": "85b50c66df9048fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ef322e98e3464de3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "16114d80301085d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monash/Notes/FIT9136 Intro DB/DB Applied 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DB Applied 4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "monsec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.50584411621094,
-    "collapsed": true
+    "width": 329.50757598876953
   },
   "right": {
     "id": "e0f5eceb94eb1948",
@@ -221,52 +232,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cef3d563678091e4",
+  "active": "89af93000dc25e85",
   "lastOpenFiles": [
-    "Monash/Notes/FIT9138 System Design/System Design Week-5.md",
-    "Seminar 5 - Use Case.pdf",
-    "Monash/Notes/FIT9138 System Design/System Design Week-4.md",
-    "Monash/Notes/FIT9138 System Design/Untitled.md",
-    "Monash/Notes/FIT9138 System Design/System Design Week-4 Applied.md",
-    "Monash/Notes/FIT9136 Intro DB/Practice.md",
-    "Monash/Notes/FIT9136 Intro DB/DB Week-4 Workshop.md",
+    "Monash/Notes/FIT9137 CompArch/Week-6/Comp Arch Week-6 Applied.pdf",
+    "Monash/Notes/FIT9137 CompArch/Week-6/Comp Arch Week-6 Applied.md",
+    "Pasted image 20250410100420.png",
+    "Monash/Notes/FIT9137 CompArch/Week-6/Comp Arch Week-6.md",
+    "Pasted image 20250410093154.png",
+    "Monash/Email Ethics.md",
+    "Monash/Consultations 1 on 1.md",
+    "Monash/Notes/FIT9136 Intro DB/APPLIED 4.md",
+    "Pasted Image 20250409171840_218.png",
+    "Pasted Image 20250409171646_889.png",
+    "Pasted Image 20250409171030_783.png",
+    "Pasted Image 20250409170916_127.png",
+    "FIT9137 Workshop Activities - Week 6.pdf",
+    "Monash/Notes/FIT9137 CompArch/Week-6",
+    "Pasted image 20250409144049.png",
     "Monash/Notes/FIT9136 Intro DB/DB Applied 4.md",
-    "Monash/Notes/FIT9136 Intro DB/DB Applied 5.md",
-    "Pasted image 20250330142410.png",
+    "Pasted image 20250409124542.png",
+    "Pasted image 20250409124531.png",
+    "Monash/Notes/FIT9136 Intro DB/WORKSHOP 3.md",
+    "Monash/Notes/FIT9136 Intro DB/Practice.md",
+    "Monash/Notes/FIT9138 System Design/System Design Week-6.md",
+    "Monash/Notes/FIT9138 System Design/System Design Week-4.md",
+    "Monash/Notes/FIT9138 System Design/System Design Week-3.md",
+    "Monash/Notes/FIT9138 System Design/System Design Week-2 Applied.md",
+    "Seminar 6 - User Journey.pdf",
+    "Monash/Notes/Monsec/Error.md",
+    "Monash/Notes/FIT9138 System Design/Untitled.md",
+    "Monash/Notes/FIT9136 Intro DB/DB Week-5 Workshop.md",
+    "FIT9132-5-Logical-Modelling-2025S1-PreSlides.pdf",
+    "Linux Command/man.md",
+    "Linux Command/ls.md",
+    "Pasted image 20250403100727.png",
+    "Linux Command/Commands.md",
+    "Linux Command/pwd.md",
+    "Monash/Notes/Monsec/Todo.md",
+    "Linux Command",
+    "Monash/Notes/FIT9137 CompArch/Week-5/Comp Arch Week-5.md",
+    "Monash/Notes/FIT9137 CompArch/Week-5",
+    "Copy vs Deep copy.md",
+    "Monash/Notes/FIT9138 System Design/System Design Week-5.md",
+    "Monash/Notes/FIT9138 System Design/System Design Week-2.md",
+    "Monash/Notes/FIT9138 System Design/System Design Week-3 Applied.md",
+    "Seminar 5 - Use Case.pdf",
     "Monash/Notes/FIT9136 Intro DB/FIT9132-3-RelationalModel-2025S1-PreSlides.pdf",
-    "Monash/Notes/FIT9136 Intro DB/DB Applied 2.md",
-    "Monash/Notes/FIT9136 Intro DB/DB Week-1 Workshop.md",
-    "Monash/Notes/FIT9136 Intro DB/DB Week-3 Workshop.md",
-    "Monash/Database Books/Database Systems Design, Implementation and Management/Chapter 1. DB Systems Practice.md",
-    "Pasted Image 20250329130633_160.png",
-    "Monash/Database Books/Database Systems Design, Implementation and Management/Chapter 1. DB Systems.md",
-    "Monash/Notes/FIT9137 CompArch/Book Learning/Virtual Memory.md",
-    "Pasted Image 20250327233030_872.png",
-    "Pasted Image 20250327230805_012.png",
-    "Pasted Image 20250327230336_528.png",
-    "Monash/Notes/FIT9137 CompArch/Week-4/Comp Arch Week-4 Applied.md",
-    "Monash/Notes/FIT9137 CompArch/Book Learning/Untitled.md",
-    "Monash/Notes/FIT9137 CompArch/Book Learning",
-    "Monash/Database Books/Database Systems Design, Implementation and Management/Chapter 6. Normalization.md",
-    "Monash/Notes/FIT9137 CompArch/Week-1/Comp Arch Week-1 Applied.md",
-    "Monash/Notes/FIT9137 CompArch/Week-3/302 Memory Hierarchy.md",
-    "FIT9132-4-Normalisation-2025S1-PreSlides.pdf",
-    "Monash/Notes/FIT9136 Intro DB/Untitled",
-    "Monash/Database Books/Database Systems Design, Implementation and Management/DB DRAWINGS.md",
-    "Pasted image 20250327113613.png",
-    "Monash/Notes/FIT9137 CompArch/Assignment 1/Assignment 1.md",
-    "Pasted Image 20250327095023_115.png",
-    "Pasted Image 20250327094721_454.png",
-    "FIT9137 Applied Week 4.pdf",
-    "Monash/Notes/FIT9137 CompArch/Week-4/Comp Arch Week-4 Drawings.md",
-    "Monash/Notes/FIT9137 CompArch/Week-2/Comp Arch Week-2 Applied.md",
-    "Monash/Notes/FIT9137 CompArch/Week-2/Comp Arch Week-2.md",
-    "Monash/Notes/FIT9137 CompArch/Week-1/Comp Arch Week-1 Drawings.md",
-    "Pasted image 20250326163610.png",
-    "Week 4 Workshop - Overview.pdf",
-    "Monash/Notes/FIT9137 CompArch/Week-4",
-    "FIT9137 S1 2025 Assignment 1.pdf",
-    "Monash/Notes/FIT9137 CompArch/Assignment 1",
-    "Monash/Notes/FIT9138 System Design/System Design Week-4.svg"
+    "Monash/Notes/FIT9137 CompArch/Book Learning"
   ]
 }

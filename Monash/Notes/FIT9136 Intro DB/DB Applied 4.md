@@ -73,7 +73,7 @@ ORDER (order_id, order_date, cust_id)
 	- patient_id, appointment_datetime
 	- surgery_roomno, appointment_datetime
 - primary key
-		- denti111st_id, appointment_datetime
+		- dentist_id, appointment_datetime
 
 
 #### 4.2.1 Hotel Exercises
@@ -88,7 +88,7 @@ $$
 $$
 2. List all single rooms with a price below $50$
 $$
-	\sigma_{\text{room\_type = 'single'} \ \land \   \text{price} < 50}(room)
+	\sigma_{\text{room\_type = 'single'} \ \land \   \text{room\_price} < 50}(room)
 $$
 3. List the numbers and names of all hotels in Melbourne
 $$
